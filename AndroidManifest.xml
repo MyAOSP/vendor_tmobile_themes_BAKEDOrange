@@ -18,15 +18,15 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.tmobile.theme.iceorange"
+    package="com.tmobile.theme.bakedorange"
     android:hasCode="false">
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
 
     <theme
-        pluto:themeId="ICE Orange"
-        pluto:styleId="@style/Orange"
+        pluto:themeId="BAKED Orange"
+        pluto:styleId="@style/BAKEDOrange"
         pluto:name="@string/theme_name"
         pluto:preview="@drawable/preview"
         pluto:author="@string/author"
