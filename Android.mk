@@ -5,6 +5,6 @@ LOCAL_MODULE_TAGS := optional
 
 LOCAL_PACKAGE_NAME := BAKEDOrange
 
-LOCAL_AAPT_FLAGS := -c mdpi,hdpi,xhdpi,sw600dp -x
+LOCAL_AAPT_FLAGS := -c mdpi,hdpi,xhdpi,sw600dp -x 10
 
 include $(BUILD_PACKAGE)
